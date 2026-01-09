@@ -68,6 +68,6 @@ Ce projet met l’accent sur la compréhension approfondie des processus, de la 
 
 ```bash
 git clone https://github.com/akshayyy12a/Minishell.git
-cd minishell
+cd Minishell
 make
 ./minishell
