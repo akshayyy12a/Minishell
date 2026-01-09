@@ -1,6 +1,6 @@
 # Minishell 🐚
 
-Minishell est un projet du cursus de l’école 42 dont l’objectif est de recréer un **shell Unix simplifié**, inspiré de bash.  
+Minishell est un projet du cursus a faire en duo de l’école 42 dont l’objectif est de recréer un **shell Unix simplifié**, inspiré de bash.  
 Ce projet met l’accent sur la compréhension approfondie des processus, de la gestion mémoire, des signaux et de l’interaction avec le système d’exploitation.
 
 ---
@@ -71,3 +71,6 @@ git clone https://github.com/akshayyy12a/Minishell.git
 cd Minishell
 make
 ./minishell
+```
+
+Realisé avec Senhayl, étudiant a 42.
